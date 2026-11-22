@@ -1,0 +1,1807 @@
+{
+  "as_of": null,
+  "gates": [
+    {
+      "scene": "日游",
+      "language": "英语",
+      "min_trips": 8,
+      "max_miss": 0.18,
+      "fallback": "X01",
+      "verdict": "不通过",
+      "reasons": [
+        "已确认漏标率 33.7% > 上限 18%，不确定性不影响方向"
+      ],
+      "estimate": {
+        "scope": "日游-英语",
+        "sample_plays": 18,
+        "sample_journeys": 18,
+        "weight_total": 26.3361,
+        "missed_w": 5.7505,
+        "true_w": 17.0565,
+        "potential_w": 16.725,
+        "unverified_w": 7.1393,
+        "point": 0.3371,
+        "upper": 0.5492,
+        "se": 0.1528,
+        "ci": [
+          0.0377,
+          0.6366
+        ],
+        "per_cause": {
+          "语义反转": {
+            "missed_w": 4.3616,
+            "true_w": 7.1393,
+            "potential_w": 3.0282
+          },
+          "播放不清": {
+            "missed_w": 1.3889,
+            "true_w": 8.5282,
+            "potential_w": 7.3898
+          },
+          "线路不适用": {
+            "missed_w": 0.0,
+            "true_w": 1.3889,
+            "potential_w": 6.3069
+          }
+        },
+        "plays_with_miss": 3,
+        "resolved_plays": 9
+      },
+      "coverage": {
+        "scene": "日游",
+        "language": "英语",
+        "plays": 27,
+        "journeys": 27,
+        "blind": 18,
+        "clue": 1,
+        "not_selected": 8,
+        "zero_prob": 0,
+        "reviewed": 14,
+        "disputed": [
+          "P06-1",
+          "P18-1",
+          "P42-1",
+          "P54-1",
+          "P66-1"
+        ],
+        "absent_covered": [
+          "P24-1",
+          "P48-1"
+        ],
+        "absent_open": [
+          "P12-1",
+          "P60-1"
+        ],
+        "journeys_reviewed": 14,
+        "journeys_resolved": 9,
+        "renditions": 12,
+        "renditions_direct": 9,
+        "renditions_covered": 9
+      },
+      "pending": [
+        {
+          "play": "P06-1",
+          "version": "声一",
+          "journey": "R06",
+          "unknown_causes": [
+            "线路不适用"
+          ],
+          "potential_w": 0.0,
+          "unverified_w": 1.3889,
+          "gold_state": "分歧未裁定"
+        },
+        {
+          "play": "P12-1",
+          "version": "声一",
+          "journey": "R12",
+          "unknown_causes": [
+            "语义反转",
+            "播放不清",
+            "线路不适用"
+          ],
+          "potential_w": 4.1667,
+          "unverified_w": 0.0,
+          "gold_state": "已抽未审"
+        },
+        {
+          "play": "P18-1",
+          "version": "声一",
+          "journey": "R18",
+          "unknown_causes": [
+            "语义反转",
+            "播放不清"
+          ],
+          "potential_w": 1.3889,
+          "unverified_w": 1.3889,
+          "gold_state": "分歧未裁定"
+        },
+        {
+          "play": "P24-1",
+          "version": "声一",
+          "journey": "R24",
+          "unknown_causes": [
+            "线路不适用"
+          ],
+          "potential_w": 0.0,
+          "unverified_w": 1.3889,
+          "gold_state": "译文传递"
+        },
+        {
+          "play": "P42-1",
+          "version": "声二",
+          "journey": "R42",
+          "unknown_causes": [
+            "语义反转",
+            "播放不清"
+          ],
+          "potential_w": 1.6393,
+          "unverified_w": 1.6393,
+          "gold_state": "分歧未裁定"
+        },
+        {
+          "play": "P48-1",
+          "version": "声二",
+          "journey": "R48",
+          "unknown_causes": [
+            "线路不适用"
+          ],
+          "potential_w": 1.6393,
+          "unverified_w": 0.0,
+          "gold_state": "译文传递"
+        },
+        {
+          "play": "P54-1",
+          "version": "声二",
+          "journey": "R54",
+          "unknown_causes": [
+            "线路不适用"
+          ],
+          "potential_w": 1.6393,
+          "unverified_w": 0.0,
+          "gold_state": "分歧未裁定"
+        },
+        {
+          "play": "P60-1",
+          "version": "声二",
+          "journey": "R60",
+          "unknown_causes": [
+            "语义反转",
+            "播放不清",
+            "线路不适用"
+          ],
+          "potential_w": 4.918,
+          "unverified_w": 0.0,
+          "gold_state": "已抽未审"
+        },
+        {
+          "play": "P66-1",
+          "version": "声三",
+          "journey": "R66",
+          "unknown_causes": [
+            "语义反转",
+            "播放不清"
+          ],
+          "potential_w": 1.3333,
+          "unverified_w": 1.3333,
+          "gold_state": "分歧未裁定"
+        }
+      ]
+    },
+    {
+      "scene": "晚线",
+      "language": "英语",
+      "min_trips": 6,
+      "max_miss": 0.12,
+      "fallback": null,
+      "verdict": "阻断",
+      "reasons": [
+        "独立审核旅程 1 旅程 < 下限 6",
+        "近期窗口内该层总共只有 2 个旅程，即使全部复核也达不到下限，补抽无法解除"
+      ],
+      "estimate": {
+        "scope": "晚线-英语",
+        "sample_plays": 1,
+        "sample_journeys": 1,
+        "weight_total": 1.3889,
+        "missed_w": 0.0,
+        "true_w": 0.0,
+        "potential_w": 0.0,
+        "unverified_w": 0.0,
+        "point": null,
+        "upper": 0.0,
+        "se": null,
+        "ci": null,
+        "per_cause": {
+          "语义反转": {
+            "missed_w": 0.0,
+            "true_w": 0.0,
+            "potential_w": 0.0
+          },
+          "播放不清": {
+            "missed_w": 0.0,
+            "true_w": 0.0,
+            "potential_w": 0.0
+          },
+          "线路不适用": {
+            "missed_w": 0.0,
+            "true_w": 0.0,
+            "potential_w": 0.0
+          }
+        },
+        "plays_with_miss": 0,
+        "resolved_plays": 1
+      },
+      "coverage": {
+        "scene": "晚线",
+        "language": "英语",
+        "plays": 2,
+        "journeys": 2,
+        "blind": 1,
+        "clue": 0,
+        "not_selected": 1,
+        "zero_prob": 0,
+        "reviewed": 1,
+        "disputed": [],
+        "absent_covered": [],
+        "absent_open": [],
+        "journeys_reviewed": 1,
+        "journeys_resolved": 1,
+        "renditions": 2,
+        "renditions_direct": 1,
+        "renditions_covered": 1
+      },
+      "pending": []
+    },
+    {
+      "scene": "免下车",
+      "language": "普通话",
+      "min_trips": 9,
+      "max_miss": 0.07,
+      "fallback": "X04",
+      "verdict": "待补证",
+      "reasons": [
+        "已确认漏标率未超上限，但悲观上限 21.2% 跨上限 7%"
+      ],
+      "estimate": {
+        "scope": "免下车-普通话",
+        "sample_plays": 18,
+        "sample_journeys": 18,
+        "weight_total": 26.3361,
+        "missed_w": 0.0,
+        "true_w": 15.7231,
+        "potential_w": 4.6676,
+        "unverified_w": 1.6393,
+        "point": 0.0,
+        "upper": 0.2119,
+        "se": 0.0,
+        "ci": [
+          0.0,
+          0.0
+        ],
+        "per_cause": {
+          "语义反转": {
+            "missed_w": 0.0,
+            "true_w": 7.1949,
+            "potential_w": 1.6393
+          },
+          "播放不清": {
+            "missed_w": 0.0,
+            "true_w": 5.806,
+            "potential_w": 1.6393
+          },
+          "线路不适用": {
+            "missed_w": 0.0,
+            "true_w": 2.7222,
+            "potential_w": 1.3889
+          }
+        },
+        "plays_with_miss": 0,
+        "resolved_plays": 16
+      },
+      "coverage": {
+        "scene": "免下车",
+        "language": "普通话",
+        "plays": 26,
+        "journeys": 26,
+        "blind": 18,
+        "clue": 2,
+        "not_selected": 6,
+        "zero_prob": 0,
+        "reviewed": 16,
+        "disputed": [],
+        "absent_covered": [
+          "P08-0"
+        ],
+        "absent_open": [
+          "P44-0"
+        ],
+        "journeys_reviewed": 16,
+        "journeys_resolved": 16,
+        "renditions": 15,
+        "renditions_direct": 12,
+        "renditions_covered": 12
+      },
+      "pending": [
+        {
+          "play": "P08-0",
+          "version": "声一",
+          "journey": "R08",
+          "unknown_causes": [
+            "线路不适用"
+          ],
+          "potential_w": 1.3889,
+          "unverified_w": 0.0,
+          "gold_state": "译文传递"
+        },
+        {
+          "play": "P44-0",
+          "version": "声二",
+          "journey": "R44",
+          "unknown_causes": [
+            "语义反转",
+            "播放不清",
+            "线路不适用"
+          ],
+          "potential_w": 3.2787,
+          "unverified_w": 1.6393,
+          "gold_state": "已抽未审"
+        }
+      ]
+    },
+    {
+      "scene": "晚线",
+      "language": "法语",
+      "min_trips": 5,
+      "max_miss": 0.08,
+      "fallback": null,
+      "verdict": "阻断",
+      "reasons": [
+        "独立审核旅程 0 旅程 < 下限 5",
+        "2 段登记概率为 0，没有观察机会",
+        "近期窗口内该层总共只有 2 个旅程，即使全部复核也达不到下限，补抽无法解除"
+      ],
+      "estimate": {
+        "scope": "晚线-法语",
+        "sample_plays": 0,
+        "sample_journeys": 0,
+        "weight_total": 0.0,
+        "missed_w": 0.0,
+        "true_w": 0.0,
+        "potential_w": 0.0,
+        "unverified_w": 0.0,
+        "point": null,
+        "upper": null,
+        "se": null,
+        "ci": null,
+        "per_cause": {
+          "语义反转": {
+            "missed_w": 0.0,
+            "true_w": 0.0,
+            "potential_w": 0.0
+          },
+          "播放不清": {
+            "missed_w": 0.0,
+            "true_w": 0.0,
+            "potential_w": 0.0
+          },
+          "线路不适用": {
+            "missed_w": 0.0,
+            "true_w": 0.0,
+            "potential_w": 0.0
+          }
+        },
+        "plays_with_miss": 0,
+        "resolved_plays": 0
+      },
+      "coverage": {
+        "scene": "晚线",
+        "language": "法语",
+        "plays": 2,
+        "journeys": 2,
+        "blind": 0,
+        "clue": 0,
+        "not_selected": 2,
+        "zero_prob": 2,
+        "reviewed": 0,
+        "disputed": [],
+        "absent_covered": [],
+        "absent_open": [],
+        "journeys_reviewed": 0,
+        "journeys_resolved": 0,
+        "renditions": 2,
+        "renditions_direct": 0,
+        "renditions_covered": 0
+      },
+      "pending": []
+    },
+    {
+      "scene": "日游",
+      "language": "粤语",
+      "min_trips": 4,
+      "max_miss": 0.1,
+      "fallback": "X07",
+      "verdict": "不通过",
+      "reasons": [
+        "已确认漏标率 25.2% > 上限 10%，不确定性不影响方向"
+      ],
+      "estimate": {
+        "scope": "日游-粤语",
+        "sample_plays": 7,
+        "sample_journeys": 7,
+        "weight_total": 10.1676,
+        "missed_w": 1.3889,
+        "true_w": 5.5,
+        "potential_w": 4.3616,
+        "unverified_w": 1.6393,
+        "point": 0.2525,
+        "upper": 0.5,
+        "se": 0.2354,
+        "ci": [
+          0.0,
+          0.714
+        ],
+        "per_cause": {
+          "语义反转": {
+            "missed_w": 1.3889,
+            "true_w": 4.1111,
+            "potential_w": 1.3889
+          },
+          "播放不清": {
+            "missed_w": 0.0,
+            "true_w": 1.3889,
+            "potential_w": 0.0
+          },
+          "线路不适用": {
+            "missed_w": 0.0,
+            "true_w": 0.0,
+            "potential_w": 2.9727
+          }
+        },
+        "plays_with_miss": 1,
+        "resolved_plays": 4
+      },
+      "coverage": {
+        "scene": "日游",
+        "language": "粤语",
+        "plays": 9,
+        "journeys": 9,
+        "blind": 7,
+        "clue": 1,
+        "not_selected": 1,
+        "zero_prob": 0,
+        "reviewed": 6,
+        "disputed": [
+          "P18-0",
+          "P54-0"
+        ],
+        "absent_covered": [
+          "P72-0"
+        ],
+        "absent_open": [],
+        "journeys_reviewed": 6,
+        "journeys_resolved": 4,
+        "renditions": 8,
+        "renditions_direct": 6,
+        "renditions_covered": 6
+      },
+      "pending": [
+        {
+          "play": "P18-0",
+          "version": "声一",
+          "journey": "R18",
+          "unknown_causes": [
+            "语义反转"
+          ],
+          "potential_w": 1.3889,
+          "unverified_w": 0.0,
+          "gold_state": "分歧未裁定"
+        },
+        {
+          "play": "P54-0",
+          "version": "声二",
+          "journey": "R54",
+          "unknown_causes": [
+            "播放不清",
+            "线路不适用"
+          ],
+          "potential_w": 1.6393,
+          "unverified_w": 1.6393,
+          "gold_state": "分歧未裁定"
+        },
+        {
+          "play": "P72-0",
+          "version": "声三",
+          "journey": "R72",
+          "unknown_causes": [
+            "线路不适用"
+          ],
+          "potential_w": 1.3333,
+          "unverified_w": 0.0,
+          "gold_state": "译文传递"
+        }
+      ]
+    }
+  ],
+  "other_strata": {
+    "免下车|法语": {
+      "scope": "免下车-法语",
+      "sample_plays": 0,
+      "sample_journeys": 0,
+      "weight_total": 0.0,
+      "missed_w": 0.0,
+      "true_w": 0.0,
+      "potential_w": 0.0,
+      "unverified_w": 0.0,
+      "point": null,
+      "upper": null,
+      "se": null,
+      "ci": null,
+      "per_cause": {
+        "语义反转": {
+          "missed_w": 0.0,
+          "true_w": 0.0,
+          "potential_w": 0.0
+        },
+        "播放不清": {
+          "missed_w": 0.0,
+          "true_w": 0.0,
+          "potential_w": 0.0
+        },
+        "线路不适用": {
+          "missed_w": 0.0,
+          "true_w": 0.0,
+          "potential_w": 0.0
+        }
+      },
+      "plays_with_miss": 0,
+      "resolved_plays": 0
+    },
+    "免下车|英语": {
+      "scope": "免下车-英语",
+      "sample_plays": 1,
+      "sample_journeys": 1,
+      "weight_total": 1.6393,
+      "missed_w": 1.6393,
+      "true_w": 1.6393,
+      "potential_w": 0.0,
+      "unverified_w": 0.0,
+      "point": 1.0,
+      "upper": 1.0,
+      "se": null,
+      "ci": null,
+      "per_cause": {
+        "语义反转": {
+          "missed_w": 0.0,
+          "true_w": 0.0,
+          "potential_w": 0.0
+        },
+        "播放不清": {
+          "missed_w": 1.6393,
+          "true_w": 1.6393,
+          "potential_w": 0.0
+        },
+        "线路不适用": {
+          "missed_w": 0.0,
+          "true_w": 0.0,
+          "potential_w": 0.0
+        }
+      },
+      "plays_with_miss": 1,
+      "resolved_plays": 1
+    },
+    "日游|普通话": {
+      "scope": "日游-普通话",
+      "sample_plays": 17,
+      "sample_journeys": 17,
+      "weight_total": 24.6967,
+      "missed_w": 2.9727,
+      "true_w": 11.5565,
+      "potential_w": 20.8916,
+      "unverified_w": 8.5838,
+      "point": 0.2572,
+      "upper": 0.5816,
+      "se": 0.1677,
+      "ci": [
+        0.0,
+        0.5859
+      ],
+      "per_cause": {
+        "语义反转": {
+          "missed_w": 2.9727,
+          "true_w": 5.7505,
+          "potential_w": 6.0009
+        },
+        "播放不清": {
+          "missed_w": 0.0,
+          "true_w": 1.3889,
+          "potential_w": 8.8342
+        },
+        "线路不适用": {
+          "missed_w": 0.0,
+          "true_w": 4.4171,
+          "potential_w": 6.0565
+        }
+      },
+      "plays_with_miss": 2,
+      "resolved_plays": 8
+    },
+    "晚线|普通话": {
+      "scope": "晚线-普通话",
+      "sample_plays": 21,
+      "sample_journeys": 21,
+      "weight_total": 31.449,
+      "missed_w": 5.6949,
+      "true_w": 17.1958,
+      "potential_w": 16.6694,
+      "unverified_w": 10.418,
+      "point": 0.3312,
+      "upper": 0.505,
+      "se": 0.1585,
+      "ci": [
+        0.0206,
+        0.6418
+      ],
+      "per_cause": {
+        "语义反转": {
+          "missed_w": 1.3333,
+          "true_w": 5.6949,
+          "potential_w": 2.9727
+        },
+        "播放不清": {
+          "missed_w": 2.7222,
+          "true_w": 7.1393,
+          "potential_w": 7.3898
+        },
+        "线路不适用": {
+          "missed_w": 1.6393,
+          "true_w": 4.3616,
+          "potential_w": 6.3069
+        }
+      },
+      "plays_with_miss": 3,
+      "resolved_plays": 15
+    }
+  },
+  "versions": {
+    "声一": {
+      "scope": "版本-声一",
+      "sample_plays": 39,
+      "sample_journeys": 27,
+      "weight_total": 54.1667,
+      "missed_w": 5.5556,
+      "true_w": 40.2778,
+      "potential_w": 22.2222,
+      "unverified_w": 15.2778,
+      "point": 0.1379,
+      "upper": 0.3571,
+      "se": 0.074,
+      "ci": [
+        0.0,
+        0.2831
+      ],
+      "per_cause": {
+        "语义反转": {
+          "missed_w": 2.7778,
+          "true_w": 16.6667,
+          "potential_w": 4.1667
+        },
+        "播放不清": {
+          "missed_w": 2.7778,
+          "true_w": 16.6667,
+          "potential_w": 11.1111
+        },
+        "线路不适用": {
+          "missed_w": 0.0,
+          "true_w": 6.9444,
+          "potential_w": 6.9444
+        }
+      },
+      "plays_with_miss": 3,
+      "resolved_plays": 26
+    },
+    "声二": {
+      "scope": "版本-声二",
+      "sample_plays": 30,
+      "sample_journeys": 23,
+      "weight_total": 49.1803,
+      "missed_w": 6.5574,
+      "true_w": 16.3934,
+      "potential_w": 34.4262,
+      "unverified_w": 11.4754,
+      "point": 0.4,
+      "upper": 0.6579,
+      "se": 0.1417,
+      "ci": [
+        0.1223,
+        0.6777
+      ],
+      "per_cause": {
+        "语义反转": {
+          "missed_w": 3.2787,
+          "true_w": 6.5574,
+          "potential_w": 8.1967
+        },
+        "播放不清": {
+          "missed_w": 1.6393,
+          "true_w": 6.5574,
+          "potential_w": 11.4754
+        },
+        "线路不适用": {
+          "missed_w": 1.6393,
+          "true_w": 3.2787,
+          "potential_w": 14.7541
+        }
+      },
+      "plays_with_miss": 4,
+      "resolved_plays": 18
+    },
+    "声三": {
+      "scope": "版本-声三",
+      "sample_plays": 14,
+      "sample_journeys": 11,
+      "weight_total": 18.6667,
+      "missed_w": 5.3333,
+      "true_w": 12.0,
+      "potential_w": 6.6667,
+      "unverified_w": 2.6667,
+      "point": 0.4444,
+      "upper": 0.5625,
+      "se": 0.1785,
+      "ci": [
+        0.0946,
+        0.7943
+      ],
+      "per_cause": {
+        "语义反转": {
+          "missed_w": 4.0,
+          "true_w": 6.6667,
+          "potential_w": 2.6667
+        },
+        "播放不清": {
+          "missed_w": 1.3333,
+          "true_w": 2.6667,
+          "potential_w": 2.6667
+        },
+        "线路不适用": {
+          "missed_w": 0.0,
+          "true_w": 2.6667,
+          "potential_w": 1.3333
+        }
+      },
+      "plays_with_miss": 3,
+      "resolved_plays": 10
+    }
+  },
+  "no_feedback": {
+    "plays": 64,
+    "blind": 46,
+    "reviewed": 36,
+    "covered": 46
+  },
+  "feedback": {
+    "total": 72,
+    "original": 60,
+    "translations": 12
+  },
+  "clue_items": [
+    {
+      "play": "P20-0",
+      "version": "声一",
+      "scene": "免下车",
+      "language": "普通话",
+      "feedback": [
+        "T20-0"
+      ],
+      "first_labels": [
+        "正常建议"
+      ],
+      "gold_state": "已抽未审",
+      "gold_causes": {},
+      "transfer_from": []
+    },
+    {
+      "play": "P36-0",
+      "version": "声二",
+      "scene": "日游",
+      "language": "粤语",
+      "feedback": [
+        "T36-0"
+      ],
+      "first_labels": [
+        "线路不适用"
+      ],
+      "gold_state": "已抽未审",
+      "gold_causes": {},
+      "transfer_from": []
+    },
+    {
+      "play": "P36-1",
+      "version": "声二",
+      "scene": "日游",
+      "language": "英语",
+      "feedback": [
+        "T36-1"
+      ],
+      "first_labels": [
+        "正常建议"
+      ],
+      "gold_state": "已抽未审",
+      "gold_causes": {},
+      "transfer_from": []
+    },
+    {
+      "play": "P36-2",
+      "version": "声二",
+      "scene": "日游",
+      "language": "普通话",
+      "feedback": [
+        "T36-2"
+      ],
+      "first_labels": [
+        "语义反转"
+      ],
+      "gold_state": "已抽未审",
+      "gold_causes": {},
+      "transfer_from": []
+    },
+    {
+      "play": "P56-0",
+      "version": "声二",
+      "scene": "免下车",
+      "language": "普通话",
+      "feedback": [
+        "T56-0"
+      ],
+      "first_labels": [
+        "语义反转"
+      ],
+      "gold_state": "译文传递",
+      "gold_causes": {
+        "语义反转": true,
+        "播放不清": false
+      },
+      "transfer_from": [
+        "P32-0"
+      ]
+    }
+  ],
+  "supplementary": {
+    "recommendation": {
+      "scope": {
+        "language": "普通话",
+        "version": "声二"
+      },
+      "gates": [
+        "免下车-普通话"
+      ],
+      "pending_plays": [
+        "P44-0"
+      ],
+      "residual_upper": 0.08116526414212248,
+      "lifts": false,
+      "question": "免下车-普通话 的悲观上限能否降到 7% 以内",
+      "blocked_notes": [
+        "晚线-英语：近期仅 2 个旅程 < 下限 6，补抽无法解除，不占用申请",
+        "晚线-法语：近期仅 2 个旅程 < 下限 5，补抽无法解除，不占用申请"
+      ],
+      "evaluations": [
+        {
+          "scope": {
+            "language": "普通话",
+            "version": "声二"
+          },
+          "gate": "免下车-普通话",
+          "max_miss": 0.07,
+          "pending_plays": [
+            "P44-0"
+          ],
+          "residual_upper": 0.08116526414212248,
+          "lifts": false
+        },
+        {
+          "scope": {
+            "language": "普通话",
+            "version": "声一"
+          },
+          "gate": "免下车-普通话",
+          "max_miss": 0.07,
+          "pending_plays": [
+            "P08-0"
+          ],
+          "residual_upper": 0.15884327870123202,
+          "lifts": false
+        }
+      ],
+      "caveat": "即使该范围全部有利化解，残余悲观上限仍约 8.1% > 7%；单靠本轮补抽不能放行该层，范围外的待补证据需另行核实(专项追查)"
+    },
+    "candidates": [
+      {
+        "play": "P44-0",
+        "rendition": "X08-普通话-声二",
+        "scene": "免下车",
+        "journey": "R44",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": true,
+        "also_covers": [],
+        "gate_critical": true,
+        "clue": false,
+        "probability": 1.0
+      },
+      {
+        "play": "P36-2",
+        "rendition": "X02-普通话-声二",
+        "scene": "日游",
+        "journey": "R36",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": true,
+        "also_covers": [],
+        "gate_critical": false,
+        "clue": true,
+        "probability": 1.0
+      },
+      {
+        "play": "P40-0",
+        "rendition": "X04-普通话-共用",
+        "scene": "晚线",
+        "journey": "R40",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": false,
+        "also_covers": [
+          "P64-0"
+        ],
+        "gate_critical": false,
+        "clue": true,
+        "probability": 1.0
+      },
+      {
+        "play": "P45-2",
+        "rendition": "X11-普通话-声二",
+        "scene": "日游",
+        "journey": "R45",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": false,
+        "also_covers": [],
+        "gate_critical": false,
+        "clue": true,
+        "probability": 1.0
+      },
+      {
+        "play": "P60-0",
+        "rendition": "X00-普通话-声二",
+        "scene": "日游",
+        "journey": "R60",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": false,
+        "also_covers": [],
+        "gate_critical": false,
+        "clue": true,
+        "probability": 1.0
+      },
+      {
+        "play": "P42-0",
+        "rendition": "X06-普通话-声二",
+        "scene": "日游",
+        "journey": "R42",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": true,
+        "also_covers": [],
+        "gate_critical": false,
+        "clue": false,
+        "probability": 1.0
+      },
+      {
+        "play": "P48-0",
+        "rendition": "X00-普通话-共用",
+        "scene": "日游",
+        "journey": "R48",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": true,
+        "also_covers": [],
+        "gate_critical": false,
+        "clue": false,
+        "probability": 1.0
+      },
+      {
+        "play": "P52-2",
+        "rendition": "X06-普通话-声二",
+        "scene": "晚线",
+        "journey": "R52",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": true,
+        "also_covers": [],
+        "gate_critical": false,
+        "clue": false,
+        "probability": 1.0
+      },
+      {
+        "play": "P57-0",
+        "rendition": "X09-普通话-声二",
+        "scene": "日游",
+        "journey": "R57",
+        "language": "普通话",
+        "version": "声二",
+        "key_instruction": true,
+        "also_covers": [],
+        "gate_critical": false,
+        "clue": false,
+        "probability": 1.0
+      }
+    ],
+    "special": [
+      {
+        "play": "P08-0",
+        "version": "声一",
+        "scene": "免下车",
+        "language": "普通话",
+        "key_instruction": true,
+        "unknown_causes": [
+          "线路不适用"
+        ],
+        "gate": "免下车-普通话"
+      }
+    ],
+    "assignments": [
+      {
+        "play": "P06-1",
+        "kind": "分歧裁定",
+        "slot": "s0a",
+        "reviewer": "双语甲",
+        "day": "2026-08-09"
+      },
+      {
+        "play": "P08-0",
+        "kind": "专项追查",
+        "slot": "s0a",
+        "reviewer": "双语甲",
+        "day": "2026-08-09"
+      },
+      {
+        "play": "P30-0",
+        "kind": "分歧裁定",
+        "slot": "s0b",
+        "reviewer": "普通话乙",
+        "day": "2026-08-09"
+      },
+      {
+        "play": "P18-1",
+        "kind": "分歧裁定",
+        "slot": "s1a",
+        "reviewer": "双语甲",
+        "day": "2026-08-10"
+      },
+      {
+        "play": "P42-1",
+        "kind": "分歧裁定",
+        "slot": "s1a",
+        "reviewer": "双语甲",
+        "day": "2026-08-10"
+      },
+      {
+        "play": "P40-0",
+        "kind": "补抽复核",
+        "slot": "s1b",
+        "reviewer": "普通话乙",
+        "day": "2026-08-10"
+      },
+      {
+        "play": "P44-0",
+        "kind": "补抽复核",
+        "slot": "s2a",
+        "reviewer": "双语甲",
+        "day": "2026-08-11"
+      },
+      {
+        "play": "P54-1",
+        "kind": "分歧裁定",
+        "slot": "s2a",
+        "reviewer": "双语甲",
+        "day": "2026-08-11"
+      },
+      {
+        "play": "P45-2",
+        "kind": "补抽复核",
+        "slot": "s2b",
+        "reviewer": "普通话乙",
+        "day": "2026-08-11"
+      },
+      {
+        "play": "P06-0",
+        "kind": "分歧裁定",
+        "slot": "s3a",
+        "reviewer": "双语甲",
+        "day": "2026-08-12"
+      },
+      {
+        "play": "P66-1",
+        "kind": "分歧裁定",
+        "slot": "s3a",
+        "reviewer": "双语甲",
+        "day": "2026-08-12"
+      },
+      {
+        "play": "P60-0",
+        "kind": "补抽复核",
+        "slot": "s3b",
+        "reviewer": "普通话乙",
+        "day": "2026-08-12"
+      },
+      {
+        "play": "P18-2",
+        "kind": "分歧裁定",
+        "slot": "s4a",
+        "reviewer": "双语甲",
+        "day": "2026-08-13"
+      },
+      {
+        "play": "P36-2",
+        "kind": "补抽复核",
+        "slot": "s4a",
+        "reviewer": "双语甲",
+        "day": "2026-08-13"
+      },
+      {
+        "play": "P42-0",
+        "kind": "补抽复核",
+        "slot": "s5a",
+        "reviewer": "双语甲",
+        "day": "2026-08-14"
+      },
+      {
+        "play": "P48-0",
+        "kind": "补抽复核",
+        "slot": "s5a",
+        "reviewer": "双语甲",
+        "day": "2026-08-14"
+      },
+      {
+        "play": "P52-2",
+        "kind": "补抽复核",
+        "slot": "s6a",
+        "reviewer": "双语甲",
+        "day": "2026-08-15"
+      },
+      {
+        "play": "P54-2",
+        "kind": "分歧裁定",
+        "slot": "s6a",
+        "reviewer": "双语甲",
+        "day": "2026-08-15"
+      },
+      {
+        "play": "P57-0",
+        "kind": "补抽复核",
+        "slot": "s7a",
+        "reviewer": "双语甲",
+        "day": "2026-08-16"
+      },
+      {
+        "play": "P66-0",
+        "kind": "分歧裁定",
+        "slot": "s7a",
+        "reviewer": "双语甲",
+        "day": "2026-08-16"
+      }
+    ],
+    "unscheduled": [
+      {
+        "play": "P18-0",
+        "kind": "分歧裁定",
+        "language": "粤语",
+        "key_instruction": true,
+        "gated": true,
+        "version": "声一",
+        "scene": "日游",
+        "priority": 0
+      },
+      {
+        "play": "P54-0",
+        "kind": "分歧裁定",
+        "language": "粤语",
+        "key_instruction": true,
+        "gated": true,
+        "version": "声二",
+        "scene": "日游",
+        "priority": 0
+      }
+    ],
+    "slot_usage": [
+      {
+        "reviewer": "双语甲",
+        "used": 16,
+        "capacity": 20
+      },
+      {
+        "reviewer": "普通话乙",
+        "used": 4,
+        "capacity": 10
+      }
+    ]
+  },
+  "ledger": {
+    "overrides": {
+      "planned": [
+        {
+          "content": "X08",
+          "scene": "日游",
+          "language": "英语",
+          "version": "声三",
+          "state": "拟发布",
+          "gate_verdict": "不通过",
+          "confirmed_hits": []
+        },
+        {
+          "content": "X01",
+          "scene": "日游",
+          "language": "粤语",
+          "version": "声三",
+          "state": "拟发布",
+          "gate_verdict": "不通过",
+          "confirmed_hits": []
+        }
+      ],
+      "in_use": [
+        {
+          "content": "X04",
+          "scene": "晚线",
+          "language": "英语",
+          "version": "声二",
+          "state": "在用",
+          "gate_verdict": "阻断",
+          "confirmed_hits": [],
+          "narrow": true
+        },
+        {
+          "content": "X04",
+          "scene": "免下车",
+          "language": "普通话",
+          "version": "声二",
+          "state": "在用",
+          "gate_verdict": "待补证",
+          "confirmed_hits": [
+            {
+              "play": "P26-2",
+              "content": "X04",
+              "version": "声一",
+              "rendition": "X04-普通话-声一",
+              "causes": [
+                "播放不清"
+              ],
+              "evidence": "direct"
+            }
+          ],
+          "narrow": true
+        }
+      ]
+    },
+    "fallbacks": [
+      {
+        "scene": "日游",
+        "language": "英语",
+        "fallback": "X01",
+        "status": "未通过核实",
+        "detail": "X01 在日游-英语有已确认关键错因",
+        "hits": [
+          {
+            "play": "P00-1",
+            "content": "X01",
+            "version": "声一",
+            "rendition": "X01-英语-共用",
+            "causes": [
+              "语义反转",
+              "播放不清"
+            ],
+            "evidence": "direct"
+          },
+          {
+            "play": "P24-1",
+            "content": "X01",
+            "version": "声一",
+            "rendition": "X01-英语-共用",
+            "causes": [
+              "语义反转",
+              "播放不清"
+            ],
+            "evidence": "transferred"
+          },
+          {
+            "play": "P48-1",
+            "content": "X01",
+            "version": "声二",
+            "rendition": "X01-英语-共用",
+            "causes": [
+              "语义反转",
+              "播放不清"
+            ],
+            "evidence": "transferred"
+          },
+          {
+            "play": "P72-1",
+            "content": "X01",
+            "version": "声三",
+            "rendition": "X01-英语-共用",
+            "causes": [
+              "语义反转",
+              "播放不清"
+            ],
+            "evidence": "transferred"
+          }
+        ]
+      },
+      {
+        "scene": "晚线",
+        "language": "英语",
+        "fallback": null,
+        "status": "无替代提示"
+      },
+      {
+        "scene": "免下车",
+        "language": "普通话",
+        "fallback": "X04",
+        "status": "未通过核实",
+        "detail": "X04 在免下车-普通话有已确认关键错因",
+        "hits": [
+          {
+            "play": "P26-2",
+            "content": "X04",
+            "version": "声一",
+            "rendition": "X04-普通话-声一",
+            "causes": [
+              "播放不清"
+            ],
+            "evidence": "direct"
+          }
+        ]
+      },
+      {
+        "scene": "晚线",
+        "language": "法语",
+        "fallback": null,
+        "status": "无替代提示"
+      },
+      {
+        "scene": "日游",
+        "language": "粤语",
+        "fallback": "X07",
+        "status": "无核实证据",
+        "detail": "X07 在日游-粤语没有复核证据"
+      }
+    ],
+    "propagation": [
+      {
+        "rendition": "X00-粤语-共用",
+        "causes": [
+          "语义反转"
+        ],
+        "intrinsic": [
+          "语义反转"
+        ],
+        "route": [],
+        "versions": [
+          "声一",
+          "声三"
+        ],
+        "scenes": [
+          "日游"
+        ],
+        "evidence_from": [
+          "P00-0"
+        ],
+        "uses": [
+          "P00-0",
+          "P72-0"
+        ]
+      },
+      {
+        "rendition": "X01-英语-共用",
+        "causes": [
+          "播放不清",
+          "语义反转"
+        ],
+        "intrinsic": [
+          "播放不清",
+          "语义反转"
+        ],
+        "route": [],
+        "versions": [
+          "声一",
+          "声二",
+          "声三"
+        ],
+        "scenes": [
+          "日游"
+        ],
+        "evidence_from": [
+          "P00-1"
+        ],
+        "uses": [
+          "P00-1",
+          "P24-1",
+          "P48-1",
+          "P72-1"
+        ]
+      },
+      {
+        "rendition": "X02-普通话-共用",
+        "causes": [
+          "线路不适用",
+          "语义反转"
+        ],
+        "intrinsic": [
+          "语义反转"
+        ],
+        "route": [
+          "线路不适用"
+        ],
+        "versions": [
+          "声一",
+          "声三"
+        ],
+        "scenes": [
+          "日游"
+        ],
+        "evidence_from": [
+          "P00-2"
+        ],
+        "uses": [
+          "P00-2",
+          "P72-2"
+        ]
+      },
+      {
+        "rendition": "X08-普通话-共用",
+        "causes": [
+          "语义反转"
+        ],
+        "intrinsic": [
+          "语义反转"
+        ],
+        "route": [],
+        "versions": [
+          "声一",
+          "声二"
+        ],
+        "scenes": [
+          "免下车"
+        ],
+        "evidence_from": [
+          "P32-0"
+        ],
+        "uses": [
+          "P08-0",
+          "P32-0",
+          "P56-0"
+        ]
+      }
+    ],
+    "retired": [
+      {
+        "content": "X00",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X00-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X00",
+        "scene": "日游",
+        "language": "粤语",
+        "retired_in": "声三",
+        "rendition": "X00-粤语-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X01",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声二",
+        "rendition": "X01-英语-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X01",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声三",
+        "rendition": "X01-英语-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X01",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X01-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X01",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X01-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X02",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X02-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X02",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X02-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X02",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X02-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X03",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X03-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X03",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X03-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X03",
+        "scene": "日游",
+        "language": "粤语",
+        "retired_in": "声二",
+        "rendition": "X03-粤语-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X04",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声二",
+        "rendition": "X04-英语-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X04",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声三",
+        "rendition": "X04-英语-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X04",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X04-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X04",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X04-普通话-共用",
+        "last_version": "声二"
+      },
+      {
+        "content": "X05",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X05-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X05",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X05-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X05",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X05-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X06",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X06-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X06",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X06-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X06",
+        "scene": "日游",
+        "language": "粤语",
+        "retired_in": "声二",
+        "rendition": "X06-粤语-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X07",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声二",
+        "rendition": "X07-英语-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X07",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声三",
+        "rendition": "X07-英语-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X07",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X07-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X07",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X07-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X08",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X08-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X08",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X08-普通话-共用",
+        "last_version": "声二"
+      },
+      {
+        "content": "X08",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X08-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X08",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X08-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X09",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X09-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X09",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X09-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X09",
+        "scene": "日游",
+        "language": "粤语",
+        "retired_in": "声二",
+        "rendition": "X09-粤语-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X10",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声二",
+        "rendition": "X10-英语-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X10",
+        "scene": "日游",
+        "language": "英语",
+        "retired_in": "声三",
+        "rendition": "X10-英语-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X10",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X10-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X10",
+        "scene": "晚线",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X10-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X11",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X11-普通话-声一",
+        "last_version": "声一"
+      },
+      {
+        "content": "X11",
+        "scene": "免下车",
+        "language": "普通话",
+        "retired_in": "声三",
+        "rendition": "X11-普通话-声二",
+        "last_version": "声二"
+      },
+      {
+        "content": "X11",
+        "scene": "日游",
+        "language": "普通话",
+        "retired_in": "声二",
+        "rendition": "X11-普通话-声一",
+        "last_version": "声一"
+      }
+    ]
+  }
+}
