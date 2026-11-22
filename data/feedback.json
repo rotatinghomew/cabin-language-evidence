@@ -4,7 +4,7 @@
     "journey": "R00",
     "play": "P00-0",
     "language": "粤语",
-    "text": "翻译说还要先下车。另一提示刚才也听不清。",
+    "text": "会不会只在这个时间停？。另一提示刚才也听不清。",
     "received": "2026-06-05",
     "translation_of": null
   },
@@ -22,7 +22,7 @@
     "journey": "R00",
     "play": "P00-1",
     "language": "英语",
-    "text": "风声把播报盖过去了。另一提示刚才也听不清。",
+    "text": "Could not tell whether we could get off。另一提示刚才也听不清。",
     "received": "2026-06-05",
     "translation_of": null
   },
@@ -40,7 +40,7 @@
     "journey": "R00",
     "play": "P00-2",
     "language": "普通话",
-    "text": "这个站已经改为只停早上。另一提示刚才也听不清。",
+    "text": "請問是不是不可以落車。另一提示刚才也听不清。",
     "received": "2026-06-05",
     "translation_of": null
   },
@@ -148,7 +148,7 @@
     "journey": "R09",
     "play": "P09-0",
     "language": "粤语",
-    "text": "风声把播报盖过去了。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-10",
     "translation_of": null
   },
@@ -157,7 +157,7 @@
     "journey": "R09",
     "play": "P09-1",
     "language": "英语",
-    "text": "这个站已经改为只停早上。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-10",
     "translation_of": null
   },
@@ -166,7 +166,7 @@
     "journey": "R09",
     "play": "P09-2",
     "language": "普通话",
-    "text": "希望加一段景区介绍。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-10",
     "translation_of": null
   },
@@ -292,7 +292,7 @@
     "journey": "R18",
     "play": "P18-0",
     "language": "粤语",
-    "text": "希望加一段景区介绍。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-19",
     "translation_of": null
   },
@@ -301,7 +301,7 @@
     "journey": "R18",
     "play": "P18-1",
     "language": "英语",
-    "text": "翻译说还要先下车。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-19",
     "translation_of": null
   },
@@ -310,7 +310,7 @@
     "journey": "R18",
     "play": "P18-2",
     "language": "普通话",
-    "text": "风声把播报盖过去了。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-19",
     "translation_of": null
   },
@@ -355,7 +355,7 @@
     "journey": "R21",
     "play": "P21-1",
     "language": "英语",
-    "text": "翻译说还要先下车。",
+    "text": "Could not tell whether we could get off。",
     "received": "2026-06-26",
     "translation_of": null
   },
@@ -436,7 +436,7 @@
     "journey": "R27",
     "play": "P27-0",
     "language": "粤语",
-    "text": "翻译说还要先下车。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-28",
     "translation_of": null
   },
@@ -445,7 +445,7 @@
     "journey": "R27",
     "play": "P27-1",
     "language": "英语",
-    "text": "风声把播报盖过去了。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-28",
     "translation_of": null
   },
@@ -454,7 +454,7 @@
     "journey": "R27",
     "play": "P27-2",
     "language": "普通话",
-    "text": "这个站已经改为只停早上。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-06-28",
     "translation_of": null
   },
@@ -571,7 +571,7 @@
     "journey": "R36",
     "play": "P36-0",
     "language": "粤语",
-    "text": "这个站已经改为只停早上。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-07",
     "translation_of": null
   },
@@ -580,7 +580,7 @@
     "journey": "R36",
     "play": "P36-1",
     "language": "英语",
-    "text": "希望加一段景区介绍。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-07",
     "translation_of": null
   },
@@ -589,7 +589,7 @@
     "journey": "R36",
     "play": "P36-2",
     "language": "普通话",
-    "text": "翻译说还要先下车。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-07",
     "translation_of": null
   },
@@ -670,7 +670,7 @@
     "journey": "R42",
     "play": "P42-1",
     "language": "英语",
-    "text": "翻译说还要先下车。",
+    "text": "Could not tell whether we could get off。",
     "received": "2026-07-17",
     "translation_of": null
   },
@@ -697,7 +697,7 @@
     "journey": "R45",
     "play": "P45-0",
     "language": "粤语",
-    "text": "希望加一段景区介绍。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-16",
     "translation_of": null
   },
@@ -706,7 +706,7 @@
     "journey": "R45",
     "play": "P45-1",
     "language": "英语",
-    "text": "翻译说还要先下车。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-16",
     "translation_of": null
   },
@@ -715,7 +715,7 @@
     "journey": "R45",
     "play": "P45-2",
     "language": "普通话",
-    "text": "风声把播报盖过去了。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-16",
     "translation_of": null
   },
@@ -841,7 +841,7 @@
     "journey": "R54",
     "play": "P54-0",
     "language": "粤语",
-    "text": "风声把播报盖过去了。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-25",
     "translation_of": null
   },
@@ -850,7 +850,7 @@
     "journey": "R54",
     "play": "P54-1",
     "language": "英语",
-    "text": "这个站已经改为只停早上。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-25",
     "translation_of": null
   },
@@ -859,7 +859,7 @@
     "journey": "R54",
     "play": "P54-2",
     "language": "普通话",
-    "text": "希望加一段景区介绍。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-07-25",
     "translation_of": null
   },
@@ -976,7 +976,7 @@
     "journey": "R63",
     "play": "P63-0",
     "language": "粤语",
-    "text": "这个站已经改为只停早上。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-08-07",
     "translation_of": null
   },
@@ -985,7 +985,7 @@
     "journey": "R63",
     "play": "P63-1",
     "language": "英语",
-    "text": "希望加一段景区介绍。",
+    "text": "Could not tell whether we could get off。",
     "received": "2026-08-07",
     "translation_of": null
   },
@@ -994,7 +994,7 @@
     "journey": "R63",
     "play": "P63-2",
     "language": "普通话",
-    "text": "翻译说还要先下车。",
+    "text": "請問是不是不可以落車。",
     "received": "2026-08-07",
     "translation_of": null
   },
@@ -1120,7 +1120,7 @@
     "journey": "R72",
     "play": "P72-0",
     "language": "粤语",
-    "text": "翻译说还要先下车。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-08-12",
     "translation_of": null
   },
@@ -1129,7 +1129,7 @@
     "journey": "R72",
     "play": "P72-1",
     "language": "英语",
-    "text": "风声把播报盖过去了。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-08-12",
     "translation_of": null
   },
@@ -1138,7 +1138,7 @@
     "journey": "R72",
     "play": "P72-2",
     "language": "普通话",
-    "text": "这个站已经改为只停早上。",
+    "text": "会不会只在这个时间停？。",
     "received": "2026-08-12",
     "translation_of": null
   },
