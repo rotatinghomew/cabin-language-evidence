@@ -1,0 +1,1118 @@
+[
+  {
+    "play": "P00-0",
+    "feedback": "T00-0",
+    "stratum": "声一-粤语-日游",
+    "probability": 0.72,
+    "draw": 0.0,
+    "path": "盲抽",
+    "day": "2026-06-02"
+  },
+  {
+    "play": "P00-1",
+    "feedback": "T00-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.07,
+    "path": "盲抽",
+    "day": "2026-06-02"
+  },
+  {
+    "play": "P00-2",
+    "feedback": "T00-2",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.14,
+    "path": "盲抽",
+    "day": "2026-06-02"
+  },
+  {
+    "play": "P01-0",
+    "feedback": "T01-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.19,
+    "path": "盲抽",
+    "day": "2026-06-03"
+  },
+  {
+    "play": "P02-0",
+    "feedback": "T02-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.38,
+    "path": "盲抽",
+    "day": "2026-06-04"
+  },
+  {
+    "play": "P03-0",
+    "feedback": "T03-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.57,
+    "path": "盲抽",
+    "day": "2026-06-05"
+  },
+  {
+    "play": "P03-1",
+    "feedback": "T03-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.64,
+    "path": "盲抽",
+    "day": "2026-06-05"
+  },
+  {
+    "play": "P04-0",
+    "feedback": "T04-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.76,
+    "path": "未入样",
+    "day": "2026-06-06"
+  },
+  {
+    "play": "P05-0",
+    "feedback": "T05-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.95,
+    "path": "未入样",
+    "day": "2026-06-07"
+  },
+  {
+    "play": "P06-0",
+    "feedback": "T06-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.14,
+    "path": "盲抽",
+    "day": "2026-06-08"
+  },
+  {
+    "play": "P06-1",
+    "feedback": "T06-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.21,
+    "path": "盲抽",
+    "day": "2026-06-08"
+  },
+  {
+    "play": "P07-0",
+    "feedback": "T07-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.33,
+    "path": "盲抽",
+    "day": "2026-06-09"
+  },
+  {
+    "play": "P08-0",
+    "feedback": "T08-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.52,
+    "path": "盲抽",
+    "day": "2026-06-10"
+  },
+  {
+    "play": "P09-0",
+    "feedback": "T09-0",
+    "stratum": "声一-粤语-日游",
+    "probability": 0.72,
+    "draw": 0.71,
+    "path": "盲抽",
+    "day": "2026-06-11"
+  },
+  {
+    "play": "P09-1",
+    "feedback": "T09-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.78,
+    "path": "未入样",
+    "day": "2026-06-11"
+  },
+  {
+    "play": "P09-2",
+    "feedback": "T09-2",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.85,
+    "path": "未入样",
+    "day": "2026-06-11"
+  },
+  {
+    "play": "P10-0",
+    "feedback": "T10-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.9,
+    "path": "未入样",
+    "day": "2026-06-12"
+  },
+  {
+    "play": "P11-0",
+    "feedback": "T11-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.09,
+    "path": "盲抽",
+    "day": "2026-06-13"
+  },
+  {
+    "play": "P12-0",
+    "feedback": "T12-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.28,
+    "path": "盲抽",
+    "day": "2026-06-14"
+  },
+  {
+    "play": "P12-1",
+    "feedback": "T12-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.35,
+    "path": "盲抽",
+    "day": "2026-06-14"
+  },
+  {
+    "play": "P13-0",
+    "feedback": "T13-0",
+    "stratum": "声一-英语-晚线",
+    "probability": 0.72,
+    "draw": 0.47,
+    "path": "盲抽",
+    "day": "2026-06-15"
+  },
+  {
+    "play": "P13-1",
+    "feedback": "T13-1",
+    "stratum": "声一-法语-晚线",
+    "probability": 0,
+    "draw": 0.54,
+    "path": "未入样",
+    "day": "2026-06-15"
+  },
+  {
+    "play": "P13-2",
+    "feedback": "T13-2",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.61,
+    "path": "盲抽",
+    "day": "2026-06-15"
+  },
+  {
+    "play": "P14-0",
+    "feedback": "T14-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.66,
+    "path": "盲抽",
+    "day": "2026-06-16"
+  },
+  {
+    "play": "P15-0",
+    "feedback": "T15-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.85,
+    "path": "未入样",
+    "day": "2026-06-17"
+  },
+  {
+    "play": "P15-1",
+    "feedback": "T15-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.92,
+    "path": "未入样",
+    "day": "2026-06-17"
+  },
+  {
+    "play": "P16-0",
+    "feedback": "T16-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.04,
+    "path": "盲抽",
+    "day": "2026-06-18"
+  },
+  {
+    "play": "P17-0",
+    "feedback": "T17-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.23,
+    "path": "盲抽",
+    "day": "2026-06-19"
+  },
+  {
+    "play": "P18-0",
+    "feedback": "T18-0",
+    "stratum": "声一-粤语-日游",
+    "probability": 0.72,
+    "draw": 0.42,
+    "path": "盲抽",
+    "day": "2026-06-20"
+  },
+  {
+    "play": "P18-1",
+    "feedback": "T18-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.49,
+    "path": "盲抽",
+    "day": "2026-06-20"
+  },
+  {
+    "play": "P18-2",
+    "feedback": "T18-2",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.56,
+    "path": "盲抽",
+    "day": "2026-06-20"
+  },
+  {
+    "play": "P19-0",
+    "feedback": "T19-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.61,
+    "path": "盲抽",
+    "day": "2026-06-21"
+  },
+  {
+    "play": "P20-0",
+    "feedback": "T20-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.8,
+    "path": "未入样",
+    "day": "2026-06-22"
+  },
+  {
+    "play": "P21-0",
+    "feedback": "T21-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.99,
+    "path": "未入样",
+    "day": "2026-06-23"
+  },
+  {
+    "play": "P21-1",
+    "feedback": "T21-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.06,
+    "path": "盲抽",
+    "day": "2026-06-23"
+  },
+  {
+    "play": "P22-0",
+    "feedback": "T22-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.18,
+    "path": "盲抽",
+    "day": "2026-06-24"
+  },
+  {
+    "play": "P23-0",
+    "feedback": "T23-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.37,
+    "path": "盲抽",
+    "day": "2026-06-25"
+  },
+  {
+    "play": "P24-0",
+    "feedback": "T24-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.56,
+    "path": "盲抽",
+    "day": "2026-06-26"
+  },
+  {
+    "play": "P24-1",
+    "feedback": "T24-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.63,
+    "path": "盲抽",
+    "day": "2026-06-26"
+  },
+  {
+    "play": "P25-0",
+    "feedback": "T25-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.75,
+    "path": "未入样",
+    "day": "2026-06-27"
+  },
+  {
+    "play": "P26-0",
+    "feedback": "T26-0",
+    "stratum": "声一-英语-免下车",
+    "probability": 0.72,
+    "draw": 0.94,
+    "path": "未入样",
+    "day": "2026-06-28"
+  },
+  {
+    "play": "P26-1",
+    "feedback": "T26-1",
+    "stratum": "声一-法语-免下车",
+    "probability": 0,
+    "draw": 0.01,
+    "path": "未入样",
+    "day": "2026-06-28"
+  },
+  {
+    "play": "P26-2",
+    "feedback": "T26-2",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.08,
+    "path": "盲抽",
+    "day": "2026-06-28"
+  },
+  {
+    "play": "P27-0",
+    "feedback": "T27-0",
+    "stratum": "声一-粤语-日游",
+    "probability": 0.72,
+    "draw": 0.13,
+    "path": "盲抽",
+    "day": "2026-06-29"
+  },
+  {
+    "play": "P27-1",
+    "feedback": "T27-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.2,
+    "path": "盲抽",
+    "day": "2026-06-29"
+  },
+  {
+    "play": "P27-2",
+    "feedback": "T27-2",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.27,
+    "path": "盲抽",
+    "day": "2026-06-29"
+  },
+  {
+    "play": "P28-0",
+    "feedback": "T28-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.32,
+    "path": "盲抽",
+    "day": "2026-06-30"
+  },
+  {
+    "play": "P29-0",
+    "feedback": "T29-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.51,
+    "path": "盲抽",
+    "day": "2026-07-01"
+  },
+  {
+    "play": "P30-0",
+    "feedback": "T30-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.7,
+    "path": "盲抽",
+    "day": "2026-07-02"
+  },
+  {
+    "play": "P30-1",
+    "feedback": "T30-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.77,
+    "path": "未入样",
+    "day": "2026-07-02"
+  },
+  {
+    "play": "P31-0",
+    "feedback": "T31-0",
+    "stratum": "声一-普通话-晚线",
+    "probability": 0.72,
+    "draw": 0.89,
+    "path": "未入样",
+    "day": "2026-07-03"
+  },
+  {
+    "play": "P32-0",
+    "feedback": "T32-0",
+    "stratum": "声一-普通话-免下车",
+    "probability": 0.72,
+    "draw": 0.08,
+    "path": "盲抽",
+    "day": "2026-07-04"
+  },
+  {
+    "play": "P33-0",
+    "feedback": "T33-0",
+    "stratum": "声一-普通话-日游",
+    "probability": 0.72,
+    "draw": 0.27,
+    "path": "盲抽",
+    "day": "2026-07-05"
+  },
+  {
+    "play": "P33-1",
+    "feedback": "T33-1",
+    "stratum": "声一-英语-日游",
+    "probability": 0.72,
+    "draw": 0.34,
+    "path": "盲抽",
+    "day": "2026-07-05"
+  },
+  {
+    "play": "P34-0",
+    "feedback": "T34-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.46,
+    "path": "盲抽",
+    "day": "2026-07-06"
+  },
+  {
+    "play": "P35-0",
+    "feedback": "T35-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.65,
+    "path": "未入样",
+    "day": "2026-07-07"
+  },
+  {
+    "play": "P36-0",
+    "feedback": "T36-0",
+    "stratum": "声二-粤语-日游",
+    "probability": 0.61,
+    "draw": 0.84,
+    "path": "未入样",
+    "day": "2026-07-08"
+  },
+  {
+    "play": "P36-1",
+    "feedback": "T36-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.91,
+    "path": "未入样",
+    "day": "2026-07-08"
+  },
+  {
+    "play": "P36-2",
+    "feedback": "T36-2",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.98,
+    "path": "未入样",
+    "day": "2026-07-08"
+  },
+  {
+    "play": "P37-0",
+    "feedback": "T37-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.03,
+    "path": "盲抽",
+    "day": "2026-07-09"
+  },
+  {
+    "play": "P38-0",
+    "feedback": "T38-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.22,
+    "path": "盲抽",
+    "day": "2026-07-10"
+  },
+  {
+    "play": "P39-0",
+    "feedback": "T39-0",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.41,
+    "path": "盲抽",
+    "day": "2026-07-11"
+  },
+  {
+    "play": "P39-1",
+    "feedback": "T39-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.48,
+    "path": "盲抽",
+    "day": "2026-07-11"
+  },
+  {
+    "play": "P40-0",
+    "feedback": "T40-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.6,
+    "path": "盲抽",
+    "day": "2026-07-12"
+  },
+  {
+    "play": "P41-0",
+    "feedback": "T41-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.79,
+    "path": "未入样",
+    "day": "2026-07-13"
+  },
+  {
+    "play": "P42-0",
+    "feedback": "T42-0",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.98,
+    "path": "未入样",
+    "day": "2026-07-14"
+  },
+  {
+    "play": "P42-1",
+    "feedback": "T42-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.05,
+    "path": "盲抽",
+    "day": "2026-07-14"
+  },
+  {
+    "play": "P43-0",
+    "feedback": "T43-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.17,
+    "path": "盲抽",
+    "day": "2026-07-15"
+  },
+  {
+    "play": "P44-0",
+    "feedback": "T44-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.36,
+    "path": "盲抽",
+    "day": "2026-07-16"
+  },
+  {
+    "play": "P45-0",
+    "feedback": "T45-0",
+    "stratum": "声二-粤语-日游",
+    "probability": 0.61,
+    "draw": 0.55,
+    "path": "盲抽",
+    "day": "2026-07-17"
+  },
+  {
+    "play": "P45-1",
+    "feedback": "T45-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.62,
+    "path": "未入样",
+    "day": "2026-07-17"
+  },
+  {
+    "play": "P45-2",
+    "feedback": "T45-2",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.69,
+    "path": "未入样",
+    "day": "2026-07-17"
+  },
+  {
+    "play": "P46-0",
+    "feedback": "T46-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.74,
+    "path": "未入样",
+    "day": "2026-07-18"
+  },
+  {
+    "play": "P47-0",
+    "feedback": "T47-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.93,
+    "path": "未入样",
+    "day": "2026-07-19"
+  },
+  {
+    "play": "P48-0",
+    "feedback": "T48-0",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.12,
+    "path": "盲抽",
+    "day": "2026-07-20"
+  },
+  {
+    "play": "P48-1",
+    "feedback": "T48-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.19,
+    "path": "盲抽",
+    "day": "2026-07-20"
+  },
+  {
+    "play": "P49-0",
+    "feedback": "T49-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.31,
+    "path": "盲抽",
+    "day": "2026-07-21"
+  },
+  {
+    "play": "P50-0",
+    "feedback": "T50-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.5,
+    "path": "盲抽",
+    "day": "2026-07-22"
+  },
+  {
+    "play": "P51-0",
+    "feedback": "T51-0",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.69,
+    "path": "未入样",
+    "day": "2026-07-23"
+  },
+  {
+    "play": "P51-1",
+    "feedback": "T51-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.76,
+    "path": "未入样",
+    "day": "2026-07-23"
+  },
+  {
+    "play": "P52-0",
+    "feedback": "T52-0",
+    "stratum": "声二-英语-晚线",
+    "probability": 0.61,
+    "draw": 0.88,
+    "path": "未入样",
+    "day": "2026-07-24"
+  },
+  {
+    "play": "P52-1",
+    "feedback": "T52-1",
+    "stratum": "声二-法语-晚线",
+    "probability": 0,
+    "draw": 0.95,
+    "path": "未入样",
+    "day": "2026-07-24"
+  },
+  {
+    "play": "P52-2",
+    "feedback": "T52-2",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.02,
+    "path": "盲抽",
+    "day": "2026-07-24"
+  },
+  {
+    "play": "P53-0",
+    "feedback": "T53-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.07,
+    "path": "盲抽",
+    "day": "2026-07-25"
+  },
+  {
+    "play": "P54-0",
+    "feedback": "T54-0",
+    "stratum": "声二-粤语-日游",
+    "probability": 0.61,
+    "draw": 0.26,
+    "path": "盲抽",
+    "day": "2026-07-26"
+  },
+  {
+    "play": "P54-1",
+    "feedback": "T54-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.33,
+    "path": "盲抽",
+    "day": "2026-07-26"
+  },
+  {
+    "play": "P54-2",
+    "feedback": "T54-2",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.4,
+    "path": "盲抽",
+    "day": "2026-07-26"
+  },
+  {
+    "play": "P55-0",
+    "feedback": "T55-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.45,
+    "path": "盲抽",
+    "day": "2026-07-27"
+  },
+  {
+    "play": "P56-0",
+    "feedback": "T56-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.64,
+    "path": "未入样",
+    "day": "2026-07-28"
+  },
+  {
+    "play": "P57-0",
+    "feedback": "T57-0",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.83,
+    "path": "未入样",
+    "day": "2026-07-29"
+  },
+  {
+    "play": "P57-1",
+    "feedback": "T57-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.9,
+    "path": "未入样",
+    "day": "2026-07-29"
+  },
+  {
+    "play": "P58-0",
+    "feedback": "T58-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.02,
+    "path": "盲抽",
+    "day": "2026-07-30"
+  },
+  {
+    "play": "P59-0",
+    "feedback": "T59-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.21,
+    "path": "盲抽",
+    "day": "2026-07-31"
+  },
+  {
+    "play": "P60-0",
+    "feedback": "T60-0",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.4,
+    "path": "盲抽",
+    "day": "2026-08-01"
+  },
+  {
+    "play": "P60-1",
+    "feedback": "T60-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.47,
+    "path": "盲抽",
+    "day": "2026-08-01"
+  },
+  {
+    "play": "P61-0",
+    "feedback": "T61-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.59,
+    "path": "盲抽",
+    "day": "2026-08-02"
+  },
+  {
+    "play": "P62-0",
+    "feedback": "T62-0",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.78,
+    "path": "未入样",
+    "day": "2026-08-03"
+  },
+  {
+    "play": "P63-0",
+    "feedback": "T63-0",
+    "stratum": "声二-粤语-日游",
+    "probability": 0.61,
+    "draw": 0.97,
+    "path": "未入样",
+    "day": "2026-08-04"
+  },
+  {
+    "play": "P63-1",
+    "feedback": "T63-1",
+    "stratum": "声二-英语-日游",
+    "probability": 0.61,
+    "draw": 0.04,
+    "path": "盲抽",
+    "day": "2026-08-04"
+  },
+  {
+    "play": "P63-2",
+    "feedback": "T63-2",
+    "stratum": "声二-普通话-日游",
+    "probability": 0.61,
+    "draw": 0.11,
+    "path": "盲抽",
+    "day": "2026-08-04"
+  },
+  {
+    "play": "P64-0",
+    "feedback": "T64-0",
+    "stratum": "声二-普通话-晚线",
+    "probability": 0.61,
+    "draw": 0.16,
+    "path": "盲抽",
+    "day": "2026-08-05"
+  },
+  {
+    "play": "P65-0",
+    "feedback": "T65-0",
+    "stratum": "声二-英语-免下车",
+    "probability": 0.61,
+    "draw": 0.35,
+    "path": "盲抽",
+    "day": "2026-08-06"
+  },
+  {
+    "play": "P65-1",
+    "feedback": "T65-1",
+    "stratum": "声二-法语-免下车",
+    "probability": 0,
+    "draw": 0.42,
+    "path": "未入样",
+    "day": "2026-08-06"
+  },
+  {
+    "play": "P65-2",
+    "feedback": "T65-2",
+    "stratum": "声二-普通话-免下车",
+    "probability": 0.61,
+    "draw": 0.49,
+    "path": "盲抽",
+    "day": "2026-08-06"
+  },
+  {
+    "play": "P66-0",
+    "feedback": "T66-0",
+    "stratum": "声三-普通话-日游",
+    "probability": 0.75,
+    "draw": 0.54,
+    "path": "盲抽",
+    "day": "2026-08-07"
+  },
+  {
+    "play": "P66-1",
+    "feedback": "T66-1",
+    "stratum": "声三-英语-日游",
+    "probability": 0.75,
+    "draw": 0.61,
+    "path": "盲抽",
+    "day": "2026-08-07"
+  },
+  {
+    "play": "P67-0",
+    "feedback": "T67-0",
+    "stratum": "声三-普通话-晚线",
+    "probability": 0.75,
+    "draw": 0.73,
+    "path": "盲抽",
+    "day": "2026-08-08"
+  },
+  {
+    "play": "P68-0",
+    "feedback": "T68-0",
+    "stratum": "声三-普通话-免下车",
+    "probability": 0.75,
+    "draw": 0.92,
+    "path": "未入样",
+    "day": "2026-08-09"
+  },
+  {
+    "play": "P69-0",
+    "feedback": "T69-0",
+    "stratum": "声三-普通话-日游",
+    "probability": 0.75,
+    "draw": 0.11,
+    "path": "盲抽",
+    "day": "2026-08-10"
+  },
+  {
+    "play": "P69-1",
+    "feedback": "T69-1",
+    "stratum": "声三-英语-日游",
+    "probability": 0.75,
+    "draw": 0.18,
+    "path": "盲抽",
+    "day": "2026-08-10"
+  },
+  {
+    "play": "P70-0",
+    "feedback": "T70-0",
+    "stratum": "声三-普通话-晚线",
+    "probability": 0.75,
+    "draw": 0.3,
+    "path": "盲抽",
+    "day": "2026-08-11"
+  },
+  {
+    "play": "P71-0",
+    "feedback": "T71-0",
+    "stratum": "声三-普通话-免下车",
+    "probability": 0.75,
+    "draw": 0.49,
+    "path": "盲抽",
+    "day": "2026-08-12"
+  },
+  {
+    "play": "P72-0",
+    "feedback": "T72-0",
+    "stratum": "声三-粤语-日游",
+    "probability": 0.75,
+    "draw": 0.68,
+    "path": "盲抽",
+    "day": "2026-08-13"
+  },
+  {
+    "play": "P72-1",
+    "feedback": "T72-1",
+    "stratum": "声三-英语-日游",
+    "probability": 0.75,
+    "draw": 0.75,
+    "path": "未入样",
+    "day": "2026-08-13"
+  },
+  {
+    "play": "P72-2",
+    "feedback": "T72-2",
+    "stratum": "声三-普通话-日游",
+    "probability": 0.75,
+    "draw": 0.82,
+    "path": "未入样",
+    "day": "2026-08-13"
+  },
+  {
+    "play": "P73-0",
+    "feedback": "T73-0",
+    "stratum": "声三-普通话-晚线",
+    "probability": 0.75,
+    "draw": 0.87,
+    "path": "未入样",
+    "day": "2026-08-14"
+  },
+  {
+    "play": "P74-0",
+    "feedback": "T74-0",
+    "stratum": "声三-普通话-免下车",
+    "probability": 0.75,
+    "draw": 0.06,
+    "path": "盲抽",
+    "day": "2026-08-15"
+  },
+  {
+    "play": "P75-0",
+    "feedback": "T75-0",
+    "stratum": "声三-普通话-日游",
+    "probability": 0.75,
+    "draw": 0.25,
+    "path": "盲抽",
+    "day": "2026-08-16"
+  },
+  {
+    "play": "P75-1",
+    "feedback": "T75-1",
+    "stratum": "声三-英语-日游",
+    "probability": 0.75,
+    "draw": 0.32,
+    "path": "盲抽",
+    "day": "2026-08-16"
+  },
+  {
+    "play": "P76-0",
+    "feedback": "T76-0",
+    "stratum": "声三-普通话-晚线",
+    "probability": 0.75,
+    "draw": 0.44,
+    "path": "盲抽",
+    "day": "2026-08-17"
+  },
+  {
+    "play": "P77-0",
+    "feedback": "T77-0",
+    "stratum": "声三-普通话-免下车",
+    "probability": 0.75,
+    "draw": 0.63,
+    "path": "盲抽",
+    "day": "2026-08-18"
+  },
+  {
+    "play": "P78-0",
+    "feedback": "T78-0",
+    "stratum": "声三-普通话-日游",
+    "probability": 0.75,
+    "draw": 0.82,
+    "path": "未入样",
+    "day": "2026-08-19"
+  },
+  {
+    "play": "P78-1",
+    "feedback": "T78-1",
+    "stratum": "声三-英语-日游",
+    "probability": 0.75,
+    "draw": 0.89,
+    "path": "未入样",
+    "day": "2026-08-19"
+  },
+  {
+    "play": "P79-0",
+    "feedback": "T79-0",
+    "stratum": "声三-普通话-晚线",
+    "probability": 0.75,
+    "draw": 0.01,
+    "path": "盲抽",
+    "day": "2026-08-20"
+  }
+]

@@ -20,6 +20,21 @@
       "received",
       "translation_of"
     ],
+    "audit_draws": [
+      "play",
+      "feedback",
+      "stratum",
+      "probability",
+      "draw",
+      "path",
+      "day"
+    ],
+    "first_labels": [
+      "play",
+      "feedback",
+      "labels",
+      "day"
+    ],
     "labels": [
       "feedback",
       "reviewer",
@@ -77,6 +92,18 @@
       "content",
       "playbacks",
       "content"
+    ],
+    [
+      "audit_draws",
+      "play",
+      "playbacks",
+      "play"
+    ],
+    [
+      "first_labels",
+      "play",
+      "playbacks",
+      "play"
     ]
   ]
 }
