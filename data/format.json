@@ -36,7 +36,7 @@
       "day"
     ],
     "labels": [
-      "feedback",
+      "play",
       "reviewer",
       "labels",
       "date",
@@ -83,9 +83,9 @@
     ],
     [
       "labels",
-      "feedback",
-      "feedback",
-      "feedback"
+      "play",
+      "playbacks",
+      "play"
     ],
     [
       "overrides",

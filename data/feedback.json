@@ -72,33 +72,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T03-0",
-    "journey": "R03",
-    "play": "P03-0",
-    "language": "普通话",
-    "text": "翻译说还要先下车。",
-    "received": "2026-06-04",
-    "translation_of": null
-  },
-  {
-    "feedback": "T03-1",
-    "journey": "R03",
-    "play": "P03-1",
-    "language": "英语",
-    "text": "风声把播报盖过去了。",
-    "received": "2026-06-04",
-    "translation_of": null
-  },
-  {
-    "feedback": "T04-0",
-    "journey": "R04",
-    "play": "P04-0",
-    "language": "普通话",
-    "text": "停点说明不是这一边。",
-    "received": "2026-06-05",
-    "translation_of": null
-  },
-  {
     "feedback": "T05-0",
     "journey": "R05",
     "play": "P05-0",
@@ -132,42 +105,6 @@
     "language": "普通话",
     "text": "停点说明不是这一边。",
     "received": "2026-06-12",
-    "translation_of": null
-  },
-  {
-    "feedback": "T08-0",
-    "journey": "R08",
-    "play": "P08-0",
-    "language": "普通话",
-    "text": "大家以为车不能往前走。",
-    "received": "2026-06-09",
-    "translation_of": null
-  },
-  {
-    "feedback": "T09-0",
-    "journey": "R09",
-    "play": "P09-0",
-    "language": "粤语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-06-10",
-    "translation_of": null
-  },
-  {
-    "feedback": "T09-1",
-    "journey": "R09",
-    "play": "P09-1",
-    "language": "英语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-06-10",
-    "translation_of": null
-  },
-  {
-    "feedback": "T09-2",
-    "journey": "R09",
-    "play": "P09-2",
-    "language": "普通话",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-06-10",
     "translation_of": null
   },
   {
@@ -216,42 +153,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T13-0",
-    "journey": "R13",
-    "play": "P13-0",
-    "language": "英语",
-    "text": "音量还行想有字幕。",
-    "received": "2026-06-14",
-    "translation_of": null
-  },
-  {
-    "feedback": "T13-1",
-    "journey": "R13",
-    "play": "P13-1",
-    "language": "法语",
-    "text": "听着像不让继续。",
-    "received": "2026-06-14",
-    "translation_of": null
-  },
-  {
-    "feedback": "T13-2",
-    "journey": "R13",
-    "play": "P13-2",
-    "language": "普通话",
-    "text": "后排没听到地名。",
-    "received": "2026-06-14",
-    "translation_of": null
-  },
-  {
-    "feedback": "T14-0",
-    "journey": "R14",
-    "play": "P14-0",
-    "language": "普通话",
-    "text": "听了一半声音断掉。",
-    "received": "2026-06-19",
-    "translation_of": null
-  },
-  {
     "feedback": "T15-0",
     "journey": "R15",
     "play": "P15-0",
@@ -285,42 +186,6 @@
     "language": "普通话",
     "text": "听了一半声音断掉。",
     "received": "2026-06-18",
-    "translation_of": null
-  },
-  {
-    "feedback": "T18-0",
-    "journey": "R18",
-    "play": "P18-0",
-    "language": "粤语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-06-19",
-    "translation_of": null
-  },
-  {
-    "feedback": "T18-1",
-    "journey": "R18",
-    "play": "P18-1",
-    "language": "英语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-06-19",
-    "translation_of": null
-  },
-  {
-    "feedback": "T18-2",
-    "journey": "R18",
-    "play": "P18-2",
-    "language": "普通话",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-06-19",
-    "translation_of": null
-  },
-  {
-    "feedback": "T19-0",
-    "journey": "R19",
-    "play": "P19-0",
-    "language": "普通话",
-    "text": "听着像不让继续。",
-    "received": "2026-06-20",
     "translation_of": null
   },
   {
@@ -366,33 +231,6 @@
     "language": "普通话",
     "text": "后排没听到地名。另一提示刚才也听不清。",
     "received": "2026-06-23",
-    "translation_of": null
-  },
-  {
-    "feedback": "T23-0",
-    "journey": "R23",
-    "play": "P23-0",
-    "language": "普通话",
-    "text": "这个提示在夜线已经改过了。",
-    "received": "2026-06-24",
-    "translation_of": null
-  },
-  {
-    "feedback": "T24-0",
-    "journey": "R24",
-    "play": "P24-0",
-    "language": "普通话",
-    "text": "翻译说还要先下车。",
-    "received": "2026-06-25",
-    "translation_of": null
-  },
-  {
-    "feedback": "T24-1",
-    "journey": "R24",
-    "play": "P24-1",
-    "language": "英语",
-    "text": "风声把播报盖过去了。",
-    "received": "2026-06-25",
     "translation_of": null
   },
   {
@@ -459,24 +297,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T28-0",
-    "journey": "R28",
-    "play": "P28-0",
-    "language": "普通话",
-    "text": "停点说明不是这一边。",
-    "received": "2026-07-03",
-    "translation_of": null
-  },
-  {
-    "feedback": "T29-0",
-    "journey": "R29",
-    "play": "P29-0",
-    "language": "普通话",
-    "text": "能否提前显示地名。",
-    "received": "2026-06-30",
-    "translation_of": null
-  },
-  {
     "feedback": "T30-0",
     "journey": "R30",
     "play": "P30-0",
@@ -531,33 +351,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T33-0",
-    "journey": "R33",
-    "play": "P33-0",
-    "language": "普通话",
-    "text": "风声把播报盖过去了。另一提示刚才也听不清。",
-    "received": "2026-07-04",
-    "translation_of": null
-  },
-  {
-    "feedback": "T33-1",
-    "journey": "R33",
-    "play": "P33-1",
-    "language": "英语",
-    "text": "这个站已经改为只停早上。另一提示刚才也听不清。",
-    "received": "2026-07-04",
-    "translation_of": null
-  },
-  {
-    "feedback": "T34-0",
-    "journey": "R34",
-    "play": "P34-0",
-    "language": "普通话",
-    "text": "音量还行想有字幕。",
-    "received": "2026-07-05",
-    "translation_of": null
-  },
-  {
     "feedback": "T35-0",
     "journey": "R35",
     "play": "P35-0",
@@ -594,42 +387,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T37-0",
-    "journey": "R37",
-    "play": "P37-0",
-    "language": "普通话",
-    "text": "音量还行想有字幕。",
-    "received": "2026-07-08",
-    "translation_of": null
-  },
-  {
-    "feedback": "T38-0",
-    "journey": "R38",
-    "play": "P38-0",
-    "language": "普通话",
-    "text": "听了一半声音断掉。",
-    "received": "2026-07-09",
-    "translation_of": null
-  },
-  {
-    "feedback": "T39-0",
-    "journey": "R39",
-    "play": "P39-0",
-    "language": "普通话",
-    "text": "这个站已经改为只停早上。",
-    "received": "2026-07-10",
-    "translation_of": null
-  },
-  {
-    "feedback": "T39-1",
-    "journey": "R39",
-    "play": "P39-1",
-    "language": "英语",
-    "text": "希望加一段景区介绍。",
-    "received": "2026-07-10",
-    "translation_of": null
-  },
-  {
     "feedback": "T40-0",
     "journey": "R40",
     "play": "P40-0",
@@ -654,42 +411,6 @@
     "language": "普通话",
     "text": "听了一半声音断掉。",
     "received": "2026-07-12",
-    "translation_of": null
-  },
-  {
-    "feedback": "T42-0",
-    "journey": "R42",
-    "play": "P42-0",
-    "language": "普通话",
-    "text": "希望加一段景区介绍。",
-    "received": "2026-07-17",
-    "translation_of": null
-  },
-  {
-    "feedback": "T42-1",
-    "journey": "R42",
-    "play": "P42-1",
-    "language": "英语",
-    "text": "Could not tell whether we could get off。",
-    "received": "2026-07-17",
-    "translation_of": null
-  },
-  {
-    "feedback": "T43-0",
-    "journey": "R43",
-    "play": "P43-0",
-    "language": "普通话",
-    "text": "听着像不让继续。",
-    "received": "2026-07-14",
-    "translation_of": null
-  },
-  {
-    "feedback": "T44-0",
-    "journey": "R44",
-    "play": "P44-0",
-    "language": "普通话",
-    "text": "这个提示在夜线已经改过了。另一提示刚才也听不清。",
-    "received": "2026-07-15",
     "translation_of": null
   },
   {
@@ -729,42 +450,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T47-0",
-    "journey": "R47",
-    "play": "P47-0",
-    "language": "普通话",
-    "text": "这个提示在夜线已经改过了。",
-    "received": "2026-07-18",
-    "translation_of": null
-  },
-  {
-    "feedback": "T48-0",
-    "journey": "R48",
-    "play": "P48-0",
-    "language": "普通话",
-    "text": "翻译说还要先下车。",
-    "received": "2026-07-19",
-    "translation_of": null
-  },
-  {
-    "feedback": "T48-1",
-    "journey": "R48",
-    "play": "P48-1",
-    "language": "英语",
-    "text": "风声把播报盖过去了。",
-    "received": "2026-07-19",
-    "translation_of": null
-  },
-  {
-    "feedback": "T49-0",
-    "journey": "R49",
-    "play": "P49-0",
-    "language": "普通话",
-    "text": "后排没听到地名。",
-    "received": "2026-07-24",
-    "translation_of": null
-  },
-  {
     "feedback": "T50-0",
     "journey": "R50",
     "play": "P50-0",
@@ -801,69 +486,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T52-0",
-    "journey": "R52",
-    "play": "P52-0",
-    "language": "英语",
-    "text": "停点说明不是这一边。",
-    "received": "2026-07-23",
-    "translation_of": null
-  },
-  {
-    "feedback": "T52-1",
-    "journey": "R52",
-    "play": "P52-1",
-    "language": "法语",
-    "text": "音量还行想有字幕。",
-    "received": "2026-07-23",
-    "translation_of": null
-  },
-  {
-    "feedback": "T52-2",
-    "journey": "R52",
-    "play": "P52-2",
-    "language": "普通话",
-    "text": "听着像不让继续。",
-    "received": "2026-07-23",
-    "translation_of": null
-  },
-  {
-    "feedback": "T53-0",
-    "journey": "R53",
-    "play": "P53-0",
-    "language": "普通话",
-    "text": "能否提前显示地名。",
-    "received": "2026-07-24",
-    "translation_of": null
-  },
-  {
-    "feedback": "T54-0",
-    "journey": "R54",
-    "play": "P54-0",
-    "language": "粤语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-07-25",
-    "translation_of": null
-  },
-  {
-    "feedback": "T54-1",
-    "journey": "R54",
-    "play": "P54-1",
-    "language": "英语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-07-25",
-    "translation_of": null
-  },
-  {
-    "feedback": "T54-2",
-    "journey": "R54",
-    "play": "P54-2",
-    "language": "普通话",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-07-25",
-    "translation_of": null
-  },
-  {
     "feedback": "T55-0",
     "journey": "R55",
     "play": "P55-0",
@@ -879,42 +501,6 @@
     "language": "普通话",
     "text": "大家以为车不能往前走。",
     "received": "2026-07-31",
-    "translation_of": null
-  },
-  {
-    "feedback": "T57-0",
-    "journey": "R57",
-    "play": "P57-0",
-    "language": "普通话",
-    "text": "风声把播报盖过去了。",
-    "received": "2026-07-28",
-    "translation_of": null
-  },
-  {
-    "feedback": "T57-1",
-    "journey": "R57",
-    "play": "P57-1",
-    "language": "英语",
-    "text": "这个站已经改为只停早上。",
-    "received": "2026-07-28",
-    "translation_of": null
-  },
-  {
-    "feedback": "T58-0",
-    "journey": "R58",
-    "play": "P58-0",
-    "language": "普通话",
-    "text": "音量还行想有字幕。",
-    "received": "2026-07-29",
-    "translation_of": null
-  },
-  {
-    "feedback": "T59-0",
-    "journey": "R59",
-    "play": "P59-0",
-    "language": "普通话",
-    "text": "大家以为车不能往前走。",
-    "received": "2026-07-30",
     "translation_of": null
   },
   {
@@ -963,51 +549,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T62-0",
-    "journey": "R62",
-    "play": "P62-0",
-    "language": "普通话",
-    "text": "听了一半声音断掉。",
-    "received": "2026-08-02",
-    "translation_of": null
-  },
-  {
-    "feedback": "T63-0",
-    "journey": "R63",
-    "play": "P63-0",
-    "language": "粤语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-08-07",
-    "translation_of": null
-  },
-  {
-    "feedback": "T63-1",
-    "journey": "R63",
-    "play": "P63-1",
-    "language": "英语",
-    "text": "Could not tell whether we could get off。",
-    "received": "2026-08-07",
-    "translation_of": null
-  },
-  {
-    "feedback": "T63-2",
-    "journey": "R63",
-    "play": "P63-2",
-    "language": "普通话",
-    "text": "請問是不是不可以落車。",
-    "received": "2026-08-07",
-    "translation_of": null
-  },
-  {
-    "feedback": "T64-0",
-    "journey": "R64",
-    "play": "P64-0",
-    "language": "普通话",
-    "text": "听着像不让继续。",
-    "received": "2026-08-04",
-    "translation_of": null
-  },
-  {
     "feedback": "T65-0",
     "journey": "R65",
     "play": "P65-0",
@@ -1053,42 +594,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T67-0",
-    "journey": "R67",
-    "play": "P67-0",
-    "language": "普通话",
-    "text": "听着像不让继续。",
-    "received": "2026-08-07",
-    "translation_of": null
-  },
-  {
-    "feedback": "T68-0",
-    "journey": "R68",
-    "play": "P68-0",
-    "language": "普通话",
-    "text": "这个提示在夜线已经改过了。",
-    "received": "2026-08-08",
-    "translation_of": null
-  },
-  {
-    "feedback": "T69-0",
-    "journey": "R69",
-    "play": "P69-0",
-    "language": "普通话",
-    "text": "希望加一段景区介绍。",
-    "received": "2026-08-09",
-    "translation_of": null
-  },
-  {
-    "feedback": "T69-1",
-    "journey": "R69",
-    "play": "P69-1",
-    "language": "英语",
-    "text": "翻译说还要先下车。",
-    "received": "2026-08-09",
-    "translation_of": null
-  },
-  {
     "feedback": "T70-0",
     "journey": "R70",
     "play": "P70-0",
@@ -1116,51 +621,6 @@
     "translation_of": null
   },
   {
-    "feedback": "T72-0",
-    "journey": "R72",
-    "play": "P72-0",
-    "language": "粤语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-08-12",
-    "translation_of": null
-  },
-  {
-    "feedback": "T72-1",
-    "journey": "R72",
-    "play": "P72-1",
-    "language": "英语",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-08-12",
-    "translation_of": null
-  },
-  {
-    "feedback": "T72-2",
-    "journey": "R72",
-    "play": "P72-2",
-    "language": "普通话",
-    "text": "会不会只在这个时间停？。",
-    "received": "2026-08-12",
-    "translation_of": null
-  },
-  {
-    "feedback": "T73-0",
-    "journey": "R73",
-    "play": "P73-0",
-    "language": "普通话",
-    "text": "后排没听到地名。",
-    "received": "2026-08-13",
-    "translation_of": null
-  },
-  {
-    "feedback": "T74-0",
-    "journey": "R74",
-    "play": "P74-0",
-    "language": "普通话",
-    "text": "能否提前显示地名。",
-    "received": "2026-08-14",
-    "translation_of": null
-  },
-  {
     "feedback": "T75-0",
     "journey": "R75",
     "play": "P75-0",
@@ -1185,42 +645,6 @@
     "language": "普通话",
     "text": "停点说明不是这一边。",
     "received": "2026-08-16",
-    "translation_of": null
-  },
-  {
-    "feedback": "T77-0",
-    "journey": "R77",
-    "play": "P77-0",
-    "language": "普通话",
-    "text": "能否提前显示地名。另一提示刚才也听不清。",
-    "received": "2026-08-21",
-    "translation_of": null
-  },
-  {
-    "feedback": "T78-0",
-    "journey": "R78",
-    "play": "P78-0",
-    "language": "普通话",
-    "text": "风声把播报盖过去了。",
-    "received": "2026-08-18",
-    "translation_of": null
-  },
-  {
-    "feedback": "T78-1",
-    "journey": "R78",
-    "play": "P78-1",
-    "language": "英语",
-    "text": "这个站已经改为只停早上。",
-    "received": "2026-08-18",
-    "translation_of": null
-  },
-  {
-    "feedback": "T79-0",
-    "journey": "R79",
-    "play": "P79-0",
-    "language": "普通话",
-    "text": "停点说明不是这一边。",
-    "received": "2026-08-19",
     "translation_of": null
   }
 ]
