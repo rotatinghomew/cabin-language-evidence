@@ -1,0 +1,82 @@
+{
+  "fields": {
+    "playbacks": [
+      "play",
+      "journey",
+      "content",
+      "version",
+      "scene",
+      "language",
+      "day",
+      "key_instruction",
+      "rendition"
+    ],
+    "feedback": [
+      "feedback",
+      "journey",
+      "play",
+      "language",
+      "text",
+      "received",
+      "translation_of"
+    ],
+    "labels": [
+      "feedback",
+      "reviewer",
+      "labels",
+      "date",
+      "kind"
+    ],
+    "review_slots": [
+      "slot",
+      "reviewer",
+      "day",
+      "languages",
+      "capacity",
+      "critical"
+    ],
+    "release_policy": [
+      "scene",
+      "language",
+      "min_trips",
+      "max_miss",
+      "source_lang",
+      "fallback"
+    ],
+    "overrides": [
+      "content",
+      "scene",
+      "language",
+      "version",
+      "state",
+      "equivalent",
+      "day"
+    ]
+  },
+  "references": [
+    [
+      "feedback",
+      "play",
+      "playbacks",
+      "play"
+    ],
+    [
+      "feedback",
+      "translation_of",
+      "feedback",
+      "feedback"
+    ],
+    [
+      "labels",
+      "feedback",
+      "feedback",
+      "feedback"
+    ],
+    [
+      "overrides",
+      "content",
+      "playbacks",
+      "content"
+    ]
+  ]
+}

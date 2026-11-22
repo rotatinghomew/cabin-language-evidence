@@ -1,0 +1,222 @@
+[
+  {
+    "slot": "s0a",
+    "reviewer": "双语甲",
+    "day": "2026-08-09",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s0b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-09",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s1a",
+    "reviewer": "双语甲",
+    "day": "2026-08-10",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s1b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-10",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s2a",
+    "reviewer": "双语甲",
+    "day": "2026-08-11",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s2b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-11",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s3a",
+    "reviewer": "双语甲",
+    "day": "2026-08-12",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s3b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-12",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s4a",
+    "reviewer": "双语甲",
+    "day": "2026-08-13",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s4b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-13",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s5a",
+    "reviewer": "双语甲",
+    "day": "2026-08-14",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s5b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-14",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s6a",
+    "reviewer": "双语甲",
+    "day": "2026-08-15",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s6b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-15",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s7a",
+    "reviewer": "双语甲",
+    "day": "2026-08-16",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s7b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-16",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s8a",
+    "reviewer": "双语甲",
+    "day": "2026-08-17",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s8b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-17",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  },
+  {
+    "slot": "s9a",
+    "reviewer": "双语甲",
+    "day": "2026-08-18",
+    "languages": [
+      "普通话",
+      "英语"
+    ],
+    "capacity": 2,
+    "critical": true
+  },
+  {
+    "slot": "s9b",
+    "reviewer": "普通话乙",
+    "day": "2026-08-18",
+    "languages": [
+      "普通话",
+      "粤语"
+    ],
+    "capacity": 1,
+    "critical": false
+  }
+]

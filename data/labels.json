@@ -1,0 +1,1784 @@
+[
+  {
+    "feedback": "T00-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-03",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T00-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T00-0",
+    "reviewer": "裁定席",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-07",
+    "kind": "裁定"
+  },
+  {
+    "feedback": "T00-1",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清",
+      "语义反转"
+    ],
+    "date": "2026-06-03",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T00-1",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T00-1",
+    "reviewer": "裁定席",
+    "labels": [
+      "播放不清",
+      "语义反转"
+    ],
+    "date": "2026-06-07",
+    "kind": "裁定"
+  },
+  {
+    "feedback": "T00-2",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用",
+      "语义反转"
+    ],
+    "date": "2026-06-03",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T00-2",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T00-2",
+    "reviewer": "裁定席",
+    "labels": [
+      "线路不适用",
+      "语义反转"
+    ],
+    "date": "2026-06-07",
+    "kind": "裁定"
+  },
+  {
+    "feedback": "T01-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T01-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T02-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T02-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T03-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T03-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T03-1",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T03-1",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T05-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T05-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-09",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T06-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-09",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T06-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-10",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T06-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-09",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T06-1",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-10",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T07-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-10",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T07-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-11",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T09-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T09-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T09-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T09-1",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T09-2",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T09-2",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T10-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T10-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-14",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T11-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-14",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T11-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-15",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T13-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T13-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T13-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T13-1",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T13-2",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T13-2",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T14-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清",
+      "语义反转"
+    ],
+    "date": "2026-06-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T14-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清",
+      "语义反转"
+    ],
+    "date": "2026-06-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T15-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T15-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-19",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T15-1",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T15-1",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-19",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T17-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-20",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T17-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T18-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T18-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-22",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T18-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T18-1",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-22",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T18-2",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T18-2",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-22",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T19-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-22",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T19-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-23",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T21-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-24",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T21-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-25",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T21-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-24",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T21-1",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-25",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T22-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-25",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T22-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-26",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T23-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-26",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T23-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-27",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T25-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-28",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T25-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-29",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T26-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-29",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T26-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-06-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T26-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-29",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T26-1",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T26-2",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-29",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T26-2",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T27-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-06-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T27-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-01",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T27-1",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-06-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T27-1",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-01",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T27-2",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-06-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T27-2",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-01",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T29-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-02",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T29-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-03",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T30-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-03",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T30-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T30-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-03",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T30-1",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T31-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T31-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T32-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T32-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T33-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T33-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T33-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T33-1",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T34-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T34-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T35-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T35-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-09",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T37-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-10",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T37-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-11",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T38-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-11",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T38-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T39-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T39-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T39-1",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T39-1",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T41-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-14",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T41-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-15",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T42-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议",
+      "语义反转"
+    ],
+    "date": "2026-07-15",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T42-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T42-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-15",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T42-1",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T43-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T43-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T45-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T45-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-19",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T45-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T45-1",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-19",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T45-2",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T45-2",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-19",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T46-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-19",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T46-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-20",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T47-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-20",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T47-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T49-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-22",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T49-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-23",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T50-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-23",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T50-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-24",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T51-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-24",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T51-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-25",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T51-1",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-24",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T51-1",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-25",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T53-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-26",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T53-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-27",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T54-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-27",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T54-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-28",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T54-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-27",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T54-1",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-28",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T54-2",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-27",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T54-2",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-07-28",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T55-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-28",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T55-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-29",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T57-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T57-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-07-31",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T57-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-30",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T57-1",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-07-31",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T58-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-07-31",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T58-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-01",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T59-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-01",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T59-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-02",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T61-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-03",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T61-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T62-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-04",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T62-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T63-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T63-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T63-1",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T63-1",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T63-2",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-05",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T63-2",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-06",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T65-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T65-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T65-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T65-1",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T65-2",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-07",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T65-2",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T66-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T66-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-09",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T66-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-08",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T66-1",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-09",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T67-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-09",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T67-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-10",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T68-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-10",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T68-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-11",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T69-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-11",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T69-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T69-1",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-11",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T69-1",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T70-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清",
+      "语义反转"
+    ],
+    "date": "2026-08-12",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T70-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清",
+      "语义反转"
+    ],
+    "date": "2026-08-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T71-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-13",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T71-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-14",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T73-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-15",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T73-0",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T74-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-16",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T74-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T75-0",
+    "reviewer": "席甲",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T75-0",
+    "reviewer": "席乙",
+    "labels": [
+      "语义反转"
+    ],
+    "date": "2026-08-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T75-1",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-17",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T75-1",
+    "reviewer": "席乙",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-18",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T77-0",
+    "reviewer": "席甲",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-19",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T77-0",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-20",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T78-0",
+    "reviewer": "席甲",
+    "labels": [
+      "播放不清"
+    ],
+    "date": "2026-08-20",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T78-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T78-1",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-20",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T78-1",
+    "reviewer": "席乙",
+    "labels": [
+      "正常建议"
+    ],
+    "date": "2026-08-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T79-0",
+    "reviewer": "席甲",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-21",
+    "kind": "初审"
+  },
+  {
+    "feedback": "T79-0",
+    "reviewer": "席乙",
+    "labels": [
+      "线路不适用"
+    ],
+    "date": "2026-08-22",
+    "kind": "初审"
+  }
+]
